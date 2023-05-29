@@ -1,6 +1,7 @@
 <h1>Ruby Simple Restaurant Project</h1>
 
-> Project Status: Base Project Finished✅
+> Project Status: Base project finished ✅
+> Actual Working: Clean code and new features
 <br>
 
 ### That is a simple Ruby project developed for study purpose.
