@@ -2,7 +2,7 @@
 
 > Project Status: Base project finished ✅
 > <br>
-> Current Working: Clean code and new features
+> Current Working: Clean code and new features 👩‍💻
 <br>
 
 ### That is a simple Ruby project developed for study purpose.
