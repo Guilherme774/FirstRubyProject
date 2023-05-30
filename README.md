@@ -1,6 +1,6 @@
 <h1>Ruby Simple Restaurant Project</h1>
 
-> Project Status: finished ✅
+> Project Status: Finished ✅
 > <br>
 > Current Working: Done ✅
 <br>
