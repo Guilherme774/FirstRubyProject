@@ -7,7 +7,7 @@
 
 ### That is a simple Ruby project developed for study purpose.
 
-### That is a simple but very powerfull project, but i tried to use the best developments, git and clean code practices.
+### That is a simple but very powerfull project and i tried to use the best developments, git and clean code practices.
 
 <br>
 
